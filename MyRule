@@ -1,3 +1,5 @@
 # 内容：补充规则
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
