@@ -12,6 +12,7 @@ ruleset=🎯 全球直连,rules/ACL4SSR/Clash/Ruleset/SteamCN.list
 ruleset=📲 电报信息,rules/ACL4SSR/Clash/Telegram.list
 ruleset=🌍 国外媒体,rules/ACL4SSR/Clash/ProxyMedia.list
 ruleset=🚀 节点选择,rules/ACL4SSR/Clash/ProxyGFWlist.list
+ruleset=🚀 节点选择,rules/ACL4SSR/Clash/Microsoft.list
 ruleset=💬 我的配置,https://api.github.com/repos/jockiller/files/contents/MyRule
 ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaIp.list
 ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaDomain.list
