@@ -3,8 +3,10 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,msedge
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN-SUFFIX,ip.sb
