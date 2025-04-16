@@ -3,8 +3,7 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN,gemini.google.com
-DOMAIN,aistudio.google.com
+DOMAIN,google.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,reuters.tv
