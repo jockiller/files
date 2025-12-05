@@ -1,0 +1,3 @@
+  DOMAIN-SUFFIX,speech.microsoft.com,DIRECT
+  DOMAIN-SUFFIX,tts.speech.microsoft.com,DIRECT
+  DOMAIN-KEYWORD,speech.microsoft,DIRECT
