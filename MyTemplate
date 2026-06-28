@@ -6,6 +6,7 @@
 ;增强中国IP段：支持
 ;增强国外GFW：支持
 
+ruleset=🏠 家宽专线,https://api.github.com/repos/jockiller/files/contents/MyHomeRule
 ruleset=🎯 全球直连,https://api.github.com/repos/jockiller/files/contents/MyDIRECT
 ruleset=💬 我的配置,https://api.github.com/repos/jockiller/files/contents/MyRule
 ruleset=💬 我的配置,rules/ACL4SSR/Clash/Ruleset/ClaudeAI.list
@@ -25,6 +26,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
 custom_proxy_group=♻️ 自动选择`url-test`.*`https://www.google.com/generate_204`300,,50
+custom_proxy_group=🏠 家宽专线`fallback`💬 我的配置`https://www.google.com/generate_204`300,,50
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
 custom_proxy_group=💬 我的配置`select`[]🇭🇰 非香港节点`[]🚀 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
 custom_proxy_group=📲 电报信息`select`[]🚀 节点选择`[]🎯 全球直连`.*

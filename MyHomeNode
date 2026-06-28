@@ -1,0 +1,4 @@
+# 内容：家宽专线节点
+# 每行一个加密节点，格式：enc:v1:aes-256-cbc:pbkdf2-sha256:10000:<base64>
+# 为空时，家宽专线回退到 💬 我的配置。
+enc:v1:aes-256-cbc:pbkdf2-sha256:10000:U2FsdGVkX19FouH3K9M+0XG87jsAo5wgyFpi8aItMC1TZCGGBh4jbjXQ3QdvVzzb/HUZwqKZPa2YwGJhlBxnqI+hXRTFPI9vXAVnLh+9E7tMuNEM4rDKczrpXz3l182Z+bg2doRWhdvN7CHSNIUD3B/1Mgsn+wFeyP5a2iBrfeepZfehBDA8BH7T3dnDS3vkrl1+rHb4YadPqRABkaK9iSYQZaLyck8ufNq1w+prvsZTfIl35LjmiD5epgq/U4P5KVj/M04BGUgm8EYcfskVkIuaBeDR/iJqPDLHHfIsgqnW/ERinYTQ6bhyZiATz6InL7JgRy6X9QHAkyXt4Ncr1uBa6PMXv+3f3Zy5L5/xEW4onzj7Nf4XjZdmzsEgN+DkghQHugGhWKaZY5UZYygHZ+1dWo0QbjG0Ut0kkUwRtDoZX8nWQGWjV5U87gRC/0wLlU7emLPY9+170wNMziZnBw==
