@@ -1,0 +1,11 @@
+# 内容：常用代理规则
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-KEYWORD,nodeloc

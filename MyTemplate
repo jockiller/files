@@ -9,6 +9,7 @@
 ruleset=家宽专线,https://raw.githubusercontent.com/jockiller/files/main/MyHomeRule
 ruleset=全球直连,https://raw.githubusercontent.com/jockiller/files/main/MyDIRECT
 ruleset=我的配置,https://raw.githubusercontent.com/jockiller/files/main/MyRule
+ruleset=节点选择,https://raw.githubusercontent.com/jockiller/files/main/MyCommonRule
 ruleset=我的配置,rules/ACL4SSR/Clash/Ruleset/ClaudeAI.list
 ruleset=全球直连,rules/ACL4SSR/Clash/LocalAreaNetwork.list
 ruleset=全球直连,rules/ACL4SSR/Clash/GoogleCN.list
