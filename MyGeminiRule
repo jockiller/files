@@ -1,0 +1,7 @@
+# 内容：Gemini 规则
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-KEYWORD,aistudio
+DOMAIN-KEYWORD,deepmind

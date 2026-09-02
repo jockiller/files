@@ -7,6 +7,7 @@
 ;增强国外GFW：支持
 
 ruleset=家宽专线,https://raw.githubusercontent.com/jockiller/files/main/MyHomeRule
+ruleset=Gemini,https://raw.githubusercontent.com/jockiller/files/main/MyGeminiRule
 ruleset=全球直连,https://raw.githubusercontent.com/jockiller/files/main/MyDIRECT
 ruleset=我的配置,https://raw.githubusercontent.com/jockiller/files/main/MyRule
 ruleset=节点选择,https://raw.githubusercontent.com/jockiller/files/main/MyCommonRule
@@ -27,6 +28,8 @@ ruleset=漏网之鱼,[]FINAL
 
 custom_proxy_group=节点选择`fallback`[]高优全部`[]高优转发`[]中优全部`[]低优全部`https://www.google.com/generate_204`300,,50
 custom_proxy_group=家宽专线`fallback`homeNodeZw`[]我的配置`https://www.google.com/generate_204`300,,50
+custom_proxy_group=Gemini`fallback`[]Gemini可用`[]高优非香港`[]高优非香港转发`[]中优非香港`[]节点选择`https://www.google.com/generate_204`300,,50
+custom_proxy_group=Gemini可用`url-test`geminiNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=国外媒体`select`[]节点选择
 custom_proxy_group=我的配置`fallback`[]高优非香港`[]高优非香港转发`[]中优非香港`[]节点选择`https://www.google.com/generate_204`300,,50
 custom_proxy_group=电报信息`select`[]节点选择`[]全球直连
