@@ -28,8 +28,9 @@ ruleset=漏网之鱼,[]FINAL
 
 custom_proxy_group=节点选择`select`[]高优全部`[]高优转发`[]中优全部`[]低优全部
 custom_proxy_group=家宽专线`fallback`homeNodeZw`[]我的配置`https://www.google.com/generate_204`300,,50
-custom_proxy_group=Gemini`select`[]Gemini可用`[]高优非香港`[]中优非香港`[]节点选择
-custom_proxy_group=Gemini可用`url-test`geminiNodeZw`https://www.google.com/generate_204`300,,50
+custom_proxy_group=Gemini`select`[]Gemini高优`[]Gemini中优`[]高优非香港`[]中优非香港`[]节点选择
+custom_proxy_group=Gemini高优`url-test`geminiHighNodeZw`https://www.google.com/generate_204`300,,50
+custom_proxy_group=Gemini中优`url-test`geminiMediumNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=国外媒体`select`[]节点选择
 custom_proxy_group=我的配置`select`[]高优非香港`[]中优非香港`[]节点选择
 custom_proxy_group=电报信息`select`[]节点选择
