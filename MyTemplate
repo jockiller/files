@@ -28,7 +28,7 @@ ruleset=漏网之鱼,[]FINAL
 
 custom_proxy_group=节点选择`select`[]高优全部`[]高优转发`[]中优全部`[]低优全部
 custom_proxy_group=我的配置`select`[]高优非香港`[]中优非香港`[]节点选择
-custom_proxy_group=Gemini`select`[]Gemini高优`[]Gemini中优`[]高优非香港`[]中优非香港`[]节点选择
+custom_proxy_group=Gemini`select`[]Gemini高优`[]Gemini中优`[]我的配置
 custom_proxy_group=国外媒体`select`[]节点选择
 custom_proxy_group=电报信息`select`[]节点选择
 custom_proxy_group=全球直连`select`[]DIRECT`[]节点选择
