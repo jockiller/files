@@ -27,21 +27,21 @@ ruleset=全球直连,[]GEOIP,CN
 ruleset=漏网之鱼,[]FINAL
 
 custom_proxy_group=节点选择`select`[]高优全部`[]高优转发`[]中优全部`[]低优全部
-custom_proxy_group=家宽专线`fallback`homeNodeZw`[]我的配置`https://www.google.com/generate_204`300,,50
+custom_proxy_group=我的配置`select`[]高优非香港`[]中优非香港`[]节点选择
 custom_proxy_group=Gemini`select`[]Gemini高优`[]Gemini中优`[]高优非香港`[]中优非香港`[]节点选择
+custom_proxy_group=国外媒体`select`[]节点选择
+custom_proxy_group=电报信息`select`[]节点选择
+custom_proxy_group=全球直连`select`[]DIRECT`[]节点选择
+custom_proxy_group=漏网之鱼`select`[]DIRECT`[]节点选择
+custom_proxy_group=家宽专线`fallback`homeNodeZw`[]我的配置`https://www.google.com/generate_204`300,,50
 custom_proxy_group=Gemini高优`url-test`geminiHighNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=Gemini中优`url-test`geminiMediumNodeZw`https://www.google.com/generate_204`300,,50
-custom_proxy_group=国外媒体`select`[]节点选择
-custom_proxy_group=我的配置`select`[]高优非香港`[]中优非香港`[]节点选择
-custom_proxy_group=电报信息`select`[]节点选择
 custom_proxy_group=高优非香港`url-test`highNotHkNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=高优全部`url-test`highNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=高优转发`url-test`highForwardNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=中优非香港`url-test`mediumNotHkNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=中优全部`url-test`mediumNodeZw`https://www.google.com/generate_204`300,,50
 custom_proxy_group=低优全部`url-test`lowNodeZw`https://www.google.com/generate_204`300,,50
-custom_proxy_group=全球直连`select`[]DIRECT`[]节点选择
-custom_proxy_group=漏网之鱼`select`[]DIRECT`[]节点选择
 
 enable_rule_generator=true
 overwrite_original_rules=true
